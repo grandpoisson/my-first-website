@@ -1,11 +1,7 @@
 # My Very First Web Page
 
-Welcome!
+## Welcome!
 
-## This is h2
+#### This project uses HTML, CSS, Git and GitHub and is a basic site to show multi page linking and some basic styling
 
-### This is h3
 
-#### This is h4
-
-##### This is h5
